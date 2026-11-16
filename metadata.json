@@ -1,0 +1,6 @@
+{
+  "name": "EarnOS Bike Rush",
+  "description": "2D side-view motorcycle stunt racing game featuring the EarnOS frog mascot and collectible EarnOS coins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
